@@ -12,6 +12,6 @@ var Temperatures=[
 var Lieux=[
 
 ];
-var Verbes=[
-
+var Verbes=["code","copie","coordonne","nage","monte","a","aime","est","se passionne","developpe","joue","s'ouleve","evolue",
+            "vote","arnaque","Mange","s'envoye","enfourne","acomplit","comunique"
 ];
